@@ -1,8 +1,8 @@
 # Changelog
 
-## v0.3.22 (07 August 2024)
+## Unreleased
 
-- Fix issue affecting results of `pass_at_{k}` score reducer.
+- Fix bug in match scorer whereby numeric values with periods aren't correctly recognized.
 
 ## v0.3.21 (07 August 2024)
 
