@@ -15,3 +15,4 @@ This directory contains evals for several benchmarks. Datasets for evals are not
 | TruthfulQA: Measuring How Models Mimic Human Falsehoods                | <https://arxiv.org/abs/2109.07958v2> |   [truthfulqa.py](truthfulqa.py) | Hugging Face |
 | CommonsenseQA: Measuring Commonsense Knowledge                         | <https://arxiv.org/pdf/1811.00937v2> |   [csqa.py](csqa.py) | Hugging Face |
 | HumanEval: Evaluating Large Language Models Trained on Code               | <https://arxiv.org/pdf/2107.03374> |   [humaneval.py](humaneval/humaneval.py) | Hugging Face |
+| DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs               | <https://arxiv.org/pdf/1903.00161> |   [drop.py](drop/drop.py) | Hugging Face |
