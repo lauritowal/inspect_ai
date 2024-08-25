@@ -33,7 +33,7 @@ def record_to_sample(record):
 def csqa():
     dataset = hf_dataset(
         path="tau/commonsense_qa",
-        split="test",
+        split="validation",
         sample_fields=record_to_sample,
         trust=True,
         shuffle=True,
